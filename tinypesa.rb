@@ -4,8 +4,8 @@ require 'json'
 require 'fileutils'
 require 'securerandom'
 
-TELEGRAM_BOT_TOKEN = '7395127176:AAGZ3RTT_o0iEUidUipyog-M2XVIzexoUdA'
-TINYPES_API_KEY = 'KdUU93F0XFv'
+TELEGRAM_BOT_TOKEN = 'USE_YOURS_🤭'
+TINYPES_API_KEY = '[LETS_GO_HERE](https://tinypesa.com/#get_tiny)'
 
 
 class PaymentBot
