@@ -1,4 +1,4 @@
-# [TINYPESA PAYMENT INTEGRATION IN TELEGRAM BOT]
+# TINYPESA PAYMENT INTEGRATION IN TELEGRAM BOT
 
 > The script is an integration of tinypesa api service for payments in a bot. The code is in ruby; so you'll need the gems. Have a go!
 
@@ -75,7 +75,7 @@ Please Note that the required APIs and Tokens are to be replaced in the file.
 
 ## Acknowledgement
 
-I want to acknowledge that this project is solely owned by me. All rights, including intellectual property rights, are retained by the original owner. The code, design, and any associated content are proprietary. For any inquiries, Please contact me at [#{nzambakitheka@gmail.com}](mailto:#{nzambakitheka@gmail.com}).
+I want to acknowledge that this project is solely owned by me. All rights, including intellectual property rights, are retained by the original owner. The code, design, and any associated content are proprietary. For any inquiries, Please contact me here 👉 [@](mailto:#{nzambakitheka@gmail.com}).
 
 Thank you for your understanding and respect for the intellectual property rights associated with this project.
 
