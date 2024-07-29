@@ -4,8 +4,8 @@ require 'json'
 require 'fileutils'
 require 'securerandom'
 
-TELEGRAM_BOT_TOKEN = '7395127176:AAGZ3RTT_o0iEUidUipyog-M2XVIzexoUdA'
-TINYPES_API_KEY = 'KdUU93F0XFv'
+TELEGRAM_BOT_TOKEN = 'Hi, Register a bot from Telegram @botfather'
+TINYPES_API_KEY = 'Register for an account'
 
 
 class PaymentBot
